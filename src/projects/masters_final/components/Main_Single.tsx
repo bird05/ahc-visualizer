@@ -48,7 +48,7 @@ export const Main_Single = () => {
       <br></br>
       <OutputTextarea/>
       <br></br>
-      <FolderSelector/>
+      <FolderSelector tarNum={0}/>
       {/* <br></br>
       <GenerateGIF/> */}
       <SDiv>
